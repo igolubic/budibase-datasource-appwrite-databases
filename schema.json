@@ -52,7 +52,7 @@
           },
           "documentId": {
             "type": "string",
-            "required": true
+            "required": false
           },
           "data": {
             "type": "json",
